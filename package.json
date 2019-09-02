@@ -1,0 +1,23 @@
+{
+  "name": "FruitsProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whisping/FruitsProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whisping/FruitsProject/issues"
+  },
+  "homepage": "https://github.com/whisping/FruitsProject#readme",
+  "dependencies": {
+    "mongodb": "^3.3.2"
+  }
+}
