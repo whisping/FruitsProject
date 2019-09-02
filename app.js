@@ -49,7 +49,7 @@ const Person = mongoose.model("Person", personSchema);
 
 const melon = new Fruit({
     name: "Melon",
-    score: 6,
+    rating: 6,
     review: "Sweat fruit."
 })
 
